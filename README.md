@@ -1,1 +1,1 @@
-# price-prediction
+This is the project, which is used to predict the prices of the houses based on the place where the houses are located and based on the square feets of the house and based on the number of rooms.# price-prediction
